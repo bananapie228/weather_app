@@ -40,7 +40,13 @@ PORT=3000
 * NEWS_API_KEY=your_newsapi_key_here
 * CURRENCY_API_KEY=your_exchangerate_key_here
 
+### Install Dependencies
 
+
+```bash
+
+npm install
+```
 API Usage Details
 The backend exposes three main endpoints used by the frontend:
 
